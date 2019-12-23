@@ -1,6 +1,8 @@
 # HyperCube-Evo-DuetWifi
 HyperCube Evolution DuetWifi2 Configuration with Titan Aero
 
+**in testing** - first attempt at RRP3 firmware
+
 # HEVO Build
 
 300x300x400 Build Space (I restrict it slightly smaller to have safe area in code)
