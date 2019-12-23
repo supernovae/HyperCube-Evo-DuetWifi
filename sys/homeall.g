@@ -25,9 +25,9 @@ G4 P500                 ; wait 500msec
 G30                     ; home Z by probing the bed
 
 ; Uncomment the following lines to lift Z after probing
-G91                    ; relative positioning
-G1 S2 Z5 F100          ; lift Z relative to current position
-G90                    ; absolute positioning
+;G91                    ; relative positioning
+;G1 S2 Z5 F100          ; lift Z relative to current position
+;G90                    ; absolute positioning
 
 
 ; Set normal speeds again
